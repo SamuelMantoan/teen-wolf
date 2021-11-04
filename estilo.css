@@ -1,0 +1,67 @@
+* {
+margin:0;
+padding:0;
+}
+
+
+h1 {
+  display: none;
+}
+
+h2 {
+   color: red;
+   text-align: center;
+   font-style: italic; 
+
+}
+h3 {
+  font-style: italic;
+  color: red;
+   text-align: center;
+}
+
+
+
+button{
+  float: center;
+  width: 68px;
+  height: 30px;
+
+}
+
+.fundo{
+  background-color: black;
+}
+
+
+h5 {
+   color: red;
+   text-align: center;
+   font-style: italic; 
+
+}
+
+p {
+   color: #ffae00;
+   text-align: center;
+   font-style: italic; 
+
+}
+
+button{
+  float: right;
+  color: red;
+}
+
+  .container {
+    padding: 20px 29px;
+    float: center;
+    text-align: center;
+    float: center;
+  }
+
+.img-fluid{
+  width: 788px;
+  height: 200px;
+}
+
